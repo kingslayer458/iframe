@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+
+
+.mj{
+    text-align: center;
+    font-family: 'Rubik Doodle Shadow', system-ui;
+}
+
+div, iframe {
+    width: 505px;
+    height: 350px;
+    margin: auto;
+    padding:69px
+      
+  
+}
+
+iframe {
+    display: block;
+    border-style:none;
+}
